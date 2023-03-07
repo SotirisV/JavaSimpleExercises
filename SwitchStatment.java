@@ -22,20 +22,6 @@ public class SwitchStatment {
             System.out.println("Unnkown");
         }
 
-        // Using switch statement
-
-        switch (password) {
-            case 525:
-                coffeType = "Black Coffe";
-                break;
-            case 323:
-                coffeType = "Caputcino";
-                break;
-            case 121:
-                coffeType = "Essperesso";
-                break;
-        }
-
     }
 
 }
