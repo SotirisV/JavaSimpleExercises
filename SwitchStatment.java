@@ -22,7 +22,7 @@ public class SwitchStatment {
             System.out.println("Unnkown");
         }
 
-        // Χρησιμοποιώντας switch statement
+        // Using switch statement
 
         switch (password) {
             case 525:
